@@ -1,0 +1,18 @@
+[
+	{
+		"label": "Find a full time job",
+		"value": "FullTime"
+	},
+	{
+		"label": "Find a part time job",
+		"value": "PartTime"
+	},
+	{
+		"label": "Find an internship",
+		"value": "Intern"
+	},
+	{
+		"label": "Become a cofounder",
+		"value": "Cofounder"
+	}
+]

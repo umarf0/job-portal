@@ -1,0 +1,22 @@
+[
+	{
+		"label": "Full Time",
+		"value": "FullTime"
+	},
+	{
+		"label": "Part Time",
+		"value": "PartTime"
+	},
+	{
+		"label": "Intern",
+		"value": "Intern"
+	},
+	{
+		"label": "Co founder",
+		"value": "Cofounder"
+	},
+	{
+		"label": "CXO",
+		"value": "CXO"
+	}
+]

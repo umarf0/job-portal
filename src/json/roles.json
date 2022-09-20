@@ -1,0 +1,26 @@
+[
+	{
+		"label": "Engineering",
+		"value": "Engineering"
+	},
+	{
+		"label": "Product",
+		"value": "Product"
+	},
+	{
+		"label": "Design",
+		"value": "Design"
+	},
+	{
+		"label": "Investing",
+		"value": "Investing"
+	},
+	{
+		"label": "Operations",
+		"value": "Operations"
+	},
+	{
+		"label": "Sales And Marketing",
+		"value": "SalesAndMarketing"
+	}
+]

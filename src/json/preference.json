@@ -1,0 +1,14 @@
+[
+	{
+		"label": "Looking",
+		"name": "status",
+		"value": "Open",
+		"isChecked": true
+	},
+	{
+		"label": "Closed to offers",
+		"name": "status",
+		"value": "Closed",
+		"isChecked": false
+	}
+]

@@ -1,0 +1,22 @@
+[
+	{
+		"label": "High School",
+		"value": "HighSchool"
+	},
+	{
+		"label": "Associate",
+		"value": "Associate"
+	},
+	{
+		"label": "Bachelor",
+		"value": "Bachelor"
+	},
+	{
+		"label": "Master",
+		"value": "Master"
+	},
+	{
+		"label": "PhD",
+		"value": "PhD"
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"label": "B2B Software",
+		"value": "B2BSoftware"
+	},
+	{
+		"label": "B2C Software",
+		"value": "B2CSoftware"
+	},
+	{
+		"label": "Hardware",
+		"value": "Hardware"
+	},
+	{
+		"label": "Data/ML/AI",
+		"value": "DataMLAI"
+	},
+	{
+		"label": "eCommerce",
+		"value": "eCommerce"
+	},
+	{
+		"label": "Investing",
+		"value": "Investing"
+	},
+	{
+		"label": "NetworkedPlatforms",
+		"value": "Networked Platforms"
+	},
+	{
+		"label": "ConsumerGoods",
+		"value": "Consumer Goods"
+	}
+]
